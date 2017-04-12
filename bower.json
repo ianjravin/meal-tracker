@@ -1,0 +1,26 @@
+{
+  "name": "meal tracker app",
+  "description": "app to track meals amd calories.",
+  "main": "",
+  "authors": [
+    "Marta Sanchez <sanchez.marta@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular",
+    "template"
+  ],
+  "homepage": "https://github.com/mrtsanchez/meal-tracker",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular-momentjs": "^0.2.2",
+    "firebase": "^3.0.0"
+  }
+}
